@@ -1,0 +1,101 @@
+jobKey,title,company,companyKey,companyRating,companyReviewCount,companyPageUrl,location,city,state,countryCode,postalCode,latitude,longitude,jobType,benefits,occupations,remote,description,datePosted,datePostedTimestamp,isHighVolumeHiring,isUrgentHire,easyApply,url,salary,salaryMin,salaryMax,salaryPeriod,currency
+7139fff67234ddfb,Data Scientist / Researcher,HOF Capital,04d1fbff5327b922,,0,https://www.indeed.com/cmp/Hof-Capital,"New York, NY 10012",New York,NY,US,10012,40.727,-73.99459,Full-time,Health insurance | Dental insurance | Paid time off | Vision insurance,Data & Database Occupations | Technology Occupations | Data Scientists & Statisticians,hybrid,"HOF Capital is a global multi-stage venture capital (VC) firm that partners with the world's best founders and helps them build generational category-defining technology companies. Since launching its first fund in 2016, HOF Capital has achieved top-tier performance and invested in some of the most successful technology startups of the past decade (e.g., SpaceX, Anthropic, OpenAI, Neuralink, xAI, etc.), enabling HOF Capital to grow rapidly to $10B+ of assets under management (AUM) and making HOF Capital one of the fastest-growing VC firms in history.
+
+Due to this rapid growth, HOF Capital is seeking a world-class data scientist to join its team. This Data Scientist / Researcher will collaborate closely with other HOF Capital team members to provide the firm and its portfolio companies with important data-driven insights and to produce high-quality research content that will help drive HOF Capital’s impact on the broader tech industry.
+
+Responsibilities:
+
+Assist with investment sourcing by: (1) building data pipelines and machine learning models that enable the scalable evaluation & monitoring of millions of tech companies, tech products, open-source frameworks, and tech talent, in order to identify the most promising ones; and (2) conducting data-driven research & analyses on future market opportunities, in order to identify the most promising ones.
+Assist with investment due diligence by: (1) collecting the data needed for accurate market & competitive analyses; (2) using raw data dumps from prospective portfolio companies to independently calculate important metrics; and (3) contributing to the technical / product, customer, & competitive due diligence for any investment opportunities related to data science and related fields.
+Assisting with portfolio company value-add by: (1) maintaining a centralized database of important metrics for each portfolio company; (2) providing portfolio companies with benchmark data to help them identify opportunities for improvement; and (3) advising earlier-stage portfolio companies on the build-out of their data tech stack and data-driven culture.
+Assisting with thought leadership by authoring high-quality data-driven research content that positions HOF Capital as a thought leader in the tech industry.
+
+Minimum qualifications:
+
+3 – 5 years of previous full-time work experience as a product-focused data scientist or similar role.
+Graduated from or currently enrolled at a top-tier university, ideally with a degree or major related to data science.
+Strong English writing & communication skills.
+Excellent professional & academic performance.
+Independent thinker with outstanding intellectual & analytical aptitude.
+Extremely capable, disciplined, responsible, hard-working, detail-oriented, conscientious, and self-motivated.
+Team player with no ego.
+Innate desire to become the best in the world at this role.
+Genuine passion for finding and supporting technology startups that have the potential to become generational category-defining companies.
+
+The ideal candidate should be excited to:
+
+Have a real impact on the world by applying data science to VC and tech startups (many of which will be among the world’s most important companies in the long term).
+Play an important multi-faceted role in HOF Capital’s investment process.
+Help drive HOF Capital’s impact on the broader tech industry through the production of high-quality data-driven research content.
+Develop expertise in the technologies & business models within HOF Capital’s areas of interest (e.g., AI, enterprise software, deep tech, etc.).
+Do whatever it takes to help HOF Capital and its portfolio companies become leaders in their respective markets.
+
+Compensation:
+
+Competitive salary + bonus + benefits.
+
+HOF Capital is a global multi-stage venture capital (VC) firm that partners with the world's best founders and helps them build generational category-defining technology companies. Since launching its first fund in 2016, the firm has invested in some of the most successful technology startups of the past decade (e.g., SpaceX, Anthropic, OpenAI, Neuralink, xAI, etc.) and achieved top-tier investment performance throughout its history, which has enabled the firm to grow rapidly to $10B+ of assets under management (AUM).
+
+Pay: $160000.00 - $470000.00 / year
+
+Pay:
+
+Bonus pay
+
+Benefits:
+
+Paid time off
+Health insurance
+Dental insurance
+Vision insurance
+
+Job Type: fulltime
+
+Schedule:
+
+12 hour shift
+Weekend availability
+Monday to Friday
+On call
+Holidays
+Overtime
+
+Education: High school degree
+
+Work location: Flexible work from home options available",2026-02-28,1772248997237,False,False,True,https://www.indeed.com/viewjob?jk=7139fff67234ddfb,"$160,000 - $470,000 a year",160000,470000,YEAR,USD
+016e75114cc0b148,Applied Scientist,Siemens,04859a4685a9d49a,4,11414,https://www.indeed.com/cmp/Siemens,"New York, NY",New York,NY,US,,40.71427,-74.00597,Full-time,,Data & Database Occupations | Technology Occupations | Data Scientists & Statisticians,hybrid,"Siemens builds the systems the physical world runs on: factories, power grids, buildings, trains, hospitals. Industrial and physical AI is a major opportunity in applied AI, and one of the harder ones to get right. There is a generation of AI-powered products to build.
+
+We are an applied science organization building the science behind them. The work sits at the intersection of machine learning research, real world data, and production systems running in industrial environments.
+
+As Applied Scientist, you work on the science on a major capability area inside the pod. You take ambiguous problems through hypothesis, method selection, experimentation, and into models that run in production. You are hands on with the modeling, and you are accountable for the rigor and the outcome.
+
+This is an individual contributor role. You will work in close partnership with engineers and product managers who turn your work into product.
+
+Key responsibilities
+
+Contribute to one or more scientific capability areas end to end, for example perception, computer vision, language and agents, time series, control, planning, or evaluation
+
+Take problems from ambiguous product or system requirements through clear research questions, hypotheses, and success metrics
+
+Contribute to applied research projects: literature review, method selection, experimentation, ablation, error analysis, and productization
+
+Build and run the evaluation pipelines for the work you own: offline metrics, online experiments, robustness testing in industrial conditions
+
+Work with engineers to take models into production grade pipelines: data readiness, training infrastructure, inference, observability
+
+Make scientific tradeoffs in front of engineers and product managers, with evidence, and translate them into decisions the team can act on
+
+Identify and de-risk scaling challenges in your area: data quality, model drift, latency, throughput, cost, safety
+
+Raise the bar on experimentation rigor, reproducibility, and documentation across the team
+
+Apply responsible AI practices in your work: bias detection, model risk management, human in the loop controls
+
+Basic qualifications
+
+4+ years in applied machine learning, AI research, or data science, with models that shipped to production and made an impact
+
+Strong foundation in machine learning theory and practice across training, evaluation, and deployment
+
+Demonstrated experience taking research from a paper or prototype into a model that runs reliably in production
+

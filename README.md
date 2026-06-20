@@ -46,6 +46,7 @@ New Apify accounts get a **$5 free credit (~2,500 jobs)** on the first run.
 | **[HOWTO.md](HOWTO.md)** | How to scrape Indeed jobs: search, filter by salary, go past the 1,000 cap, schedule |
 | **[examples/](examples/)** | Copy-paste input configs + illustrative output rows |
 | **[snippets/](snippets/)** | Run the Actor from Python, Node.js, or cURL via the public Apify API |
+| **[sample/](sample/)** | 100-row preview of the free sample dataset (full version on HuggingFace + Kaggle) |
 
 ## Output at a glance
 
@@ -63,6 +64,18 @@ Two datasets, joinable by `companyKey`. Company rows are **free** — you pay pe
 { "companyKey": "…", "company": "Plaid", "rating": 4.1, "reviewCount": 312,
   "industry": "Internet and Software", "employees": "1,001-5,000", "website": "https://plaid.com" }
 ```
+
+## 📊 Free sample dataset
+
+A ready-made **1,000-job + 536-company** sample (CSV + JSONL), collected with this Actor and joinable by `companyKey`:
+
+[![Indeed Jobs Dataset 2026](https://raw.githubusercontent.com/factden/apify-actor-assets/main/indeed-jobs-scraper/cover.png)](https://huggingface.co/datasets/fact-den/indeed-job-postings-2026)
+
+- 🤗 **HuggingFace:** [fact-den/indeed-job-postings-2026](https://huggingface.co/datasets/fact-den/indeed-job-postings-2026)
+- 📊 **Kaggle:** [indeed-jobs-2026-salaries-company-data](https://www.kaggle.com/datasets/factden/indeed-jobs-2026-salaries-company-data)
+- 📁 **In this repo:** [`sample/jobs.sample.csv`](sample/jobs.sample.csv) · [`sample/companies.sample.csv`](sample/companies.sample.csv) — 100-row preview
+
+Need fresh, larger, or filtered data (60+ countries)? **[Run the Actor](https://apify.com/factden/indeed-jobs-scraper?fpr=factden)**.
 
 ## Pricing
 
