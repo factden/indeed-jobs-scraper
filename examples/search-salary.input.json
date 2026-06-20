@@ -1,0 +1,8 @@
+{
+  "query": "software engineer",
+  "location": "San Francisco, CA",
+  "country": "US",
+  "salaryMin": 150000,
+  "maxItems": 500,
+  "scrapeCompany": true
+}
