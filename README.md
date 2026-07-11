@@ -104,9 +104,12 @@ law. See Apify's guide: [is web scraping legal?](https://blog.apify.com/is-web-s
   switching data.
 - **[Trip.com & Ctrip Hotel Reviews Scraper](https://apify.com/factden/ctrip-trip-reviews-scraper?fpr=factden)** —
   hospitality review data.
+- **[Expedia Hotel Reviews Scraper](https://apify.com/factden/expedia-hotel-reviews-scraper?fpr=factden)** —
+  hotel reviews, ratings & sentiment.
 
 Docs repos: [g2-reviews-scraper](https://github.com/factden/g2-reviews-scraper) ·
-[ctrip-trip-reviews-scraper](https://github.com/factden/ctrip-trip-reviews-scraper)
+[ctrip-trip-reviews-scraper](https://github.com/factden/ctrip-trip-reviews-scraper) ·
+[expedia-hotel-reviews-scraper](https://github.com/factden/expedia-hotel-reviews-scraper)
 
 **Docs & guides:** [How to scrape Indeed jobs](https://factden.com/blog/how-to-scrape-indeed-jobs) ·
 [factden.com](https://factden.com)
