@@ -79,7 +79,7 @@ Need fresh, larger, or filtered data (60+ countries)? **[Run the Actor](https://
 
 ## Pricing
 
-Pay-per-event: **$0.01 per run + $2 per 1,000 job rows**. Company-profile rows are **free**. Tiered plan discounts
+Pay-per-event: **$2 per 1,000 job rows, no per-run start fee**. Company-profile rows are **free**. Tiered plan discounts
 apply automatically down to **$1.20 / 1,000** on Business. See the
 [Actor page](https://apify.com/factden/indeed-jobs-scraper?fpr=factden) for current pricing.
 
