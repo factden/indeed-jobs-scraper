@@ -117,3 +117,5 @@ Docs repos: [g2-reviews-scraper](https://github.com/factden/g2-reviews-scraper) 
 ---
 
 Built by **[factden](https://apify.com/factden?fpr=factden)**. Outbound links to Apify may be affiliate links.
+
+_Found this useful? A star on this repo helps other people find it._
