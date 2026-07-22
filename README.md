@@ -100,6 +100,8 @@ law. See Apify's guide: [is web scraping legal?](https://blog.apify.com/is-web-s
 
 ## More from factden
 
+- **[Google Hotels Scraper](https://apify.com/factden/google-hotels-scraper?fpr=factden)** — live hotel prices,
+  OTA rate ladder & reviews.
 - **[G2 Reviews Scraper](https://apify.com/factden/g2-reviews-scraper?fpr=factden)** — B2B SaaS reviews, battlecards &
   switching data.
 - **[Trip.com & Ctrip Hotel Reviews Scraper](https://apify.com/factden/ctrip-trip-reviews-scraper?fpr=factden)** —
