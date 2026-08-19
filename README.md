@@ -100,6 +100,7 @@ law. See Apify's guide: [is web scraping legal?](https://blog.apify.com/is-web-s
 
 ## More from factden
 
+- [Booking.com Scraper](https://apify.com/factden/booking-com-scraper?fpr=factden) — hotels, live prices, per-room rates, availability & occupancy, and guest reviews across a whole city or one hotel ([docs](https://github.com/factden/booking-com-scraper))
 - **[MCA India Company & Director Data Scraper](https://apify.com/factden/mca-company-director-scraper?fpr=factden)** — India MCA company master + directors' personal email & phone
 - **[Airbnb Data Scraper](https://apify.com/factden/airbnb-data-scraper?fpr=factden)** — Airbnb listings, prices,
   availability, occupancy, ADR/RevPAR & reviews; a pay-per-use AirDNA alternative.
